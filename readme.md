@@ -2,7 +2,7 @@ UBSAssignment-StringAccumelator
 ========
 
 StringAccumelator will accumelate the numbers from a give text . 
-The text can contains inegers , any specical haracters .Program will treat any special character as a number seperator
+The text can contains integers , any specical characters .Program will treat any special character as a number seperator
 
 #PreRequisites
 Java 1.8
